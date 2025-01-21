@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── Home.js
+│   ├── RecipeList.js
+│   ├── RecipeDetails.js
+│   └── Navbar.js
+├── App.js
+├── index.js
+├── services/
+│   └── api.js
+└── styles/
+    └── App.css
